@@ -1,0 +1,18 @@
+EmployeeNumber,Role,EnglishName,ArabicName,Email,Designation,PhoneNumber,Division,DivisionId
+11027,Approver,Samer Abdel Salam,سامر عبد السلام,Samer@alyasra.com,Trade Channel Manager,99818500,Traditional Trade,7d8c6ad1-3d45-47ef-a56e-c50e38329885
+13832,Approver,Ahmed Dien,احمد دين,a.hussien@alyasra.com,Trade Channel manager,56646124,Traditional Trade,7d8c6ad1-3d45-47ef-a56e-c50e38329885
+10608,Approver,IBRAHIM NAGUIB IBRAHIM MAHMOUD ELGENDI,ابراهيم نجيب ابراهيم محمود الجندي,Ibrahim@alyasra.com,Divisional Manager,90910916,Modern Trade,8d1e8eb9-c1a5-4b9a-98ad-b5e61a2d3f21
+10108,CRM,IBRAHIM ABDUL WAHAB SAIN  ,ابراهيم عبد الوهاب سن ,ibrahimsain@alyasra.com,CRM Team,52226360,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+14200,CRM,Kashif  Kifayat  Ulde,كاشف كيفا يت,k.ulde@alyasra.com,CRM Team,56557423,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+12820,CRM,HAMADA GADELKARIM MOHAMED FAHMY ,حماده جاد الكريم محمد فهمي ,h.fahmy@alyasra.com,CRM Team,52226357,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+11674,CRM,MOHAMED SALEH MAHMOUD AHMED ,محمد صالح محمد احمد ,mm.ahmed@alyasra.com,CRM Team,52226356,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+13852,CRM,MAHMOUD ABDELSABOUR MOHAMED HASSAN ,محمود عبدالصبور محمد حسن ,ma.hassan@alyasra.com,CRM Team,51469005,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+14885,CRM,mahmoud khalaf ,محمود خلف عبدالرسول ,HRCDE@alyasra.com,CRM Team,94426129,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+13795,CRM,AHMED ABDELNAEIM EISSA ABDELKADER ,احمد عبدالنعيم عيسي عبدالقادر ,a.abdelkader@alyasra.com,CRM Team,56641409,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+13864,CRM,FAUZAN NURUDDIN DEREKHAN  ,فوزان نورالدين دارخان ,HRCDE@alyasra.com,CRM Team,55730763,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+14080,CRM,Ayub  Javid  Duste,ايواب جافيد دستي,HRCDE@alyasra.com,CRM Team,97556204,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+10046,CRM,MAHMOUD AHMAD TEFAH  ,محمود احمد توفه ,mahmood@alyasra.com,CRM Team,56644508,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+12638,CRM,AZIZ MOHAMED ABDELAZIZ MOHAMED ,عزيز محمود عبدالعزيز ,az.mohammed@alyasra.com,CRM Team,56641295,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+14881,CRM,Abbas Mustafa Khandwala,عباس مصطفي خاندوالا,a.khandwala@alyasra.com,CRM Team,99638453,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+14899,CRM,Mohamed Farag Reyad Ali,محمد فرج رياض علي ,mo.ali@alyasra.com,CRM Team,51443655,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15
+14842,CRM,Mohamed Kamil Mohamed Afshal,محمد كامل محمد افزال ,M.afshal@alyasra.com,CRM Team,51236455,Food Service,e5f7d3e1-ff7e-4b71-8ab1-041a0c9d7e15

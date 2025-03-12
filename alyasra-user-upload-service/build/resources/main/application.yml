@@ -1,0 +1,18 @@
+server:
+  port: 30094
+com:
+  alyasra:
+    staff-base-url: http://127.0.0.1:20092/staff/api/v1
+    keycloak:
+      client-id: alyasra-um
+      username: alyasra-um-admin
+      password: 6639A5E2AED9027A4C043AAD3B434E2A
+      client-secret: qSBHJo0v6EH8od5dGsxtZqE2hXSOwfWs
+      url: https://salestest.alyasra.com
+      port: 9090
+      realm: alyasra
+spring:
+  security:
+    user:
+      name: your_username
+      password: your_username
